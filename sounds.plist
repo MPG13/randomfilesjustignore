@@ -3,24 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>00</key>
-	<array>
-		<integer>0</integer>
-		<string>https://downloads.khinsider.com/game-soundtracks/album/animal-crossing-full-gamerip/015%2520-%2520Midnight%2520%2528Normal%2529.mp3</string>
-	</array>
+	<string>https://downloads.khinsider.com/game-soundtracks/album/animal-crossing-full-gamerip/015%2520-%2520Midnight%2520%2528Normal%2529.mp3</string>
 	<key>01</key>
-	<array>
-		<integer>1</integer>
-		<string>https://downloads.khinsider.com/game-soundtracks/album/animal-crossing-full-gamerip/016%2520-%25201%2520AM%2520%2528Normal%2529.mp3</string>
-	</array>
+	<string>https://downloads.khinsider.com/game-soundtracks/album/animal-crossing-full-gamerip/016%2520-%25201%2520AM%2520%2528Normal%2529.mp3</string>
 	<key>02</key>
-	<array>
-		<integer>2</integer>
-		<string>https://downloads.khinsider.com/game-soundtracks/album/animal-crossing-full-gamerip/017%2520-%25202%2520AM%2520%2528Normal%2529.mp3</string>
-	</array>
+	<string>https://downloads.khinsider.com/game-soundtracks/album/animal-crossing-full-gamerip/017%2520-%25202%2520AM%2520%2528Normal%2529.mp3</string>
 	<key>03</key>
-	<array>
-		<integer>3</integer>
-		<string>https://downloads.khinsider.com/game-soundtracks/album/animal-crossing-full-gamerip/018%2520-%25203%2520AM%2520%2528Normal%2529.mp3</string>
-	</array>
+	<string>https://downloads.khinsider.com/game-soundtracks/album/animal-crossing-full-gamerip/018%2520-%25203%2520AM%2520%2528Normal%2529.mp3</string>
 </dict>
 </plist>
